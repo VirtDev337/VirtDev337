@@ -1,7 +1,9 @@
 # <div align="center">Lee Harvey</div>
 
 ## About
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;I am constantly learning, both in my dream field (IT) as well as in life. Currently I have been learning Linux <img src="linux.svg" alt="linux" width="30" height="30"/> by self-study and hands on learning, as well as contributing regularly on the Zorin Forum both as tech support and moderator. I have had the honor of testing an alpha/beta of the Zorin OS 16 release. I am enrolled in the Justice Through Code Google Data Anaylytics Course and am attending a DevOps Mentorship.  Technology is my passion and I strive to help others understand, or at least tolerate it, if not love it the way I do.
+
+&nbsp;&nbsp;&nbsp;&nbsp;My focus has expanded to include software development and am a graduate of the [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode) Python course through Columbia Business School and the JavaScript Mentorship through [Emergent Works](https://emergentworks.org/). This has interested me because of my love of problem solving and helping others in their use of technology. The courses has provided the fundamentals of Python3 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>, Django4 <a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="50" height="20"/> </a>, HTML5 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>, CSS3 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> and JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> (ES6). It has also provided the opportunity to collaborate on projects and experience a professional environment of development.
 
 [LinkedIn](https://www.linkedin.com/in/lee-harvey-jr/)
 
@@ -9,11 +11,8 @@ https://github.com/VirtDev337/CodingTimeTracker/blob/main/README.md
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <span style="font-size: 150%">CSS</span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  </p>
 
 
 
