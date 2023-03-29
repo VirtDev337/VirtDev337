@@ -8,13 +8,32 @@
 <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 ### Tools & Languages:
-  - Linux <img src="./linux.svg" alt="linux" width="30" height="30"/>
-  - Windows
-  - Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  - JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  - Django <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="50" height="20"/>
-  - HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  - CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<div align="center">
+  <table>
+  <tr>
+    <td> 
+      <div align="center">Linux <img src="./linux.svg" alt="linux" width="30" height="30"/></div>
+      <div align="center">Windows <img src="windows.webp" alt="windows" width="30" height="30"/></div>
+    </td>
+    <td>
+      <div align="center">Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></div>
+      <div align="center">JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></div>
+    </td>
+    <td>
+      <div align="center">Django <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="50" height="20"/></div>
+      <div align="center">HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></div>
+    </td>
+    <td>
+      <div align="center">CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></div>
+      <div align="center">DevOps &nbsp;<img src="./devops.png" alt="devops" width="60"></div>
+    </td>
+    <td>
+      <div align="center">Bash &nbsp;<img src="bash.svg" alt="bash" width="40" height="40"/></div>
+<!--       <div align="center">DevOps &nbsp;<img src="./devops.png" alt="devops" width="60"></div> -->
+    </td>
+  </tr>
+  </table>
+</div>
 
 ### Projects:
   - [Coding Time Tracker](https://github.com/VirtDev337/CodingTimeTracker/blob/main/README.md)
