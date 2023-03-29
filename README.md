@@ -51,9 +51,12 @@ Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" 
   - [JTC Alum](https://github.com/VirtDev337/JTCAlum)
     - A project to give back to JTC, offering Alum a platform to interact with JTC partners sharing skills and abilities.
     - Python, Django, HTML, CSS, JavaScript
+
+
 <div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtDev337&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=VirtDev337&show_icons=true" alt="stats">
 </div>
+
 
 <!--
 **VirtDev337/VirtDev337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
