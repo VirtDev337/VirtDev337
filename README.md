@@ -18,11 +18,20 @@
 
 ### Projects:
   - [Coding Time Tracker](https://github.com/VirtDev337/CodingTimeTracker/blob/main/README.md)
+    - An automated time tracker that records the time spent in VS Code, without manual interaction.
+    - Python
   - [Tip Calculator](https://github.com/VirtDev337/App_Project_Tip_Calculator)
+    - Application to calculate the tip, including a server rating and split bill options.
+    - Python
   - [NYC Guide](https://github.com/VirtDev337/NYC-Guide)
+    - JTC project that displays images of NYC common tourist attractions.
+    - Python, Django, HTML, CSS
   - [Open Studios](https://github.com/VirtDev337/open-studios)
+    - JTC capstone project that offers an online exhibit for artists.
+    - Python, Django, HTML, CSS
   - [JTC Alum](https://github.com/VirtDev337/JTCAlum)
-      - https://github.com/VirtDev337/JTCAlum/README.md
+    - A project to give back to JTC, offering Alum a platform to interact with JTC partners sharing skills and abilities.
+    - Python, Django, HTML, CSS, JavaScript
 
 
 
