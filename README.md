@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;My focus has expanded to include software development and am a graduate of the [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode) Python course through Columbia Business School and the JavaScript Mentorship through <a href="https://emergentworks.org/" target="_blank" rel="noreferrer">Emergent Works <img src="https://emergentworks.org/static/logo--horizontal-0a8411dce1d3d5d67be050accbbc639b.png" alt="emergent works" width="150" height="30"/> </a>. This has interested me because of my love of problem solving and helping others in their use of technology. The courses have provided the fundamentals of <a href="https://www.python.org" target="_blank" rel="noreferrer">Python3 </a>, <a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer">Django4 </a>, <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">HTML5 </a>, <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS3 </a> and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript </a> (ES6). It has also provided the opportunity to collaborate on projects and experience a professional environment of development.</p>
 </div>
-<a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" rel="noreferrer">LinkedIn</a>
+Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 ### Tools & Languages:
 <div align="center">
@@ -51,8 +51,9 @@
   - [JTC Alum](https://github.com/VirtDev337/JTCAlum)
     - A project to give back to JTC, offering Alum a platform to interact with JTC partners sharing skills and abilities.
     - Python, Django, HTML, CSS, JavaScript
-
-
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtDev337&show_icons=true)
+</div>
 
 <!--
 **VirtDev337/VirtDev337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
