@@ -53,10 +53,11 @@ Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" 
     - Python, Django, HTML, CSS, JavaScript
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirtDev337&show_icons=true" alt="stats">
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirtDev337&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtDev337&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 <!--
 **VirtDev337/VirtDev337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
