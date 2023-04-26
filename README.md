@@ -58,7 +58,7 @@ Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=VirtDev337&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats card" />
   </div>
-  <div>
+  <div scale=125%>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtDev337&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </div>
 </div>
