@@ -55,7 +55,7 @@ Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" 
 
 
 <div align="center" style="display: flex; flex-gap: 2em" >
-  <table cellspacing="0" cellpadding="0" border="none">
+  <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td> 
         <span>
