@@ -63,7 +63,7 @@ Contact me <a href="https://www.linkedin.com/in/lee-harvey-jr/" target="_blank" 
         </span>
       </td
       <td>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="display: hidden">&nbsp;</span>
       </td>
       <td>
         <span scale=155%>
